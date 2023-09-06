@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalilgreenidge. 
 - 👀 I’m interested in building innovative web apps.
 - 🌱 I’m currently learning new tools in the web space.
-- 💞️ I’m looking to collaborate on new, cool, open source repositories.
+- 🤝 I’m looking to collaborate on new, cool, open source repositories.
 - 📫 How to reach me? linkedin.com/in/khalil021
 
 <!---
